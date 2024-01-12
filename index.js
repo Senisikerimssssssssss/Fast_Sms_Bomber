@@ -20,6 +20,7 @@ if (miktar.length == 0) {
 }
 title(`Telefon: ${telefon} - Miktar: ${miktar}`);
 
-console.log('SMS Gonderiliyor...'.rainbow);
+console.log('SMS Gonderiliyor...'.rainbow);5411438633
 
-fastBomber(telefon, miktar);
+
+fastBomber(telefon, miktar);10
