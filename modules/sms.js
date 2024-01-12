@@ -1,4 +1,4 @@
-const request = require('request');
+ki kconst request = require('request');
 const colors = require('colors');
 const title = require('./title.js');
 const moment = require('moment');
@@ -281,4 +281,4 @@ async function smsBOOM(numara, miktar) {
     }
 }
 
-module.exports = smsBOOM;
+module.exports = smsBOOM;5342802971
